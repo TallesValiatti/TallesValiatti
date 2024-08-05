@@ -1,4 +1,4 @@
-# 👋 Dirceu Resende
+# 👋 Talles Valiatti
 
 > .NET senior developer, and Cloud architect
 - 📃 I’m currently blogging at [TallesValiatti](https://tallesvaliatti.com)
